@@ -1,0 +1,13 @@
+.rm-container {
+	width: 33%;
+	height: 700px;
+	max-width: 370px;
+	margin: 0 auto 40px auto;
+	position: relative;
+	-webkit-perspective: 1600px;
+	-moz-perspective: 1600px;
+	-o-perspective: 1600px;
+	-ms-perspective: 1600px;
+	perspective: 1600px;
+	color: #2a323f;
+}
